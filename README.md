@@ -6,40 +6,6 @@ This repository is designed for students, penetration testers, and cybersecurity
 
 ---
 
-# 🎯 Learning Order
-
-The tools in this repository follow a typical Red Team workflow. Starting with foundational utilities and reconnaissance techniques before progressing to exploitation, privilege escalation, and post-exploitation helps build practical skills in a logical order.
-
-Commands & Utilities
-        ↓
-OSINT & Passive Recon
-        ↓
-Reconnaissance & Port Scanning
-        ↓
-Enumeration
-        ↓
-Web Application Testing
-        ↓
-Vulnerability Scanning
-        ↓
-Exploitation
-        ↓
-Password Attacks
-        ↓
-Active Directory & Windows Post-Exploitation
-        ↓
-Privilege Escalation
-        ↓
-Pivoting & Tunneling
-        ↓
-Traffic Analysis
-        ↓
-Supporting & Research
-        ↓
-Command & Control (C2)
-
----
-
 # 🖥️ 1. Commands & Utilities
 
 These foundational tools are used throughout almost every penetration test. They help with scripting, automation, networking, downloading files, traffic analysis, and interacting with remote services.
