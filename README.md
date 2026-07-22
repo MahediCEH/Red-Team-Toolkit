@@ -266,6 +266,12 @@ This repository is licensed under the **MIT License**.
 
 ---
 
+# ⭐ Support
+
+If you find this repository useful, consider giving it a **⭐ Star**. It helps others discover the project and motivates future improvements.
+
+---
+
 ## ⚠️ Disclaimer
 
 This repository is provided **for educational and authorized security testing only**. The tools listed here should only be used in environments where you have explicit permission to perform security assessments. The author is not responsible for any misuse of the information contained in this repository.
